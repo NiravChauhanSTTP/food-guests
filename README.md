@@ -1,0 +1,1 @@
+# This project contains recipes for preparing Jeera Rice and Dal Fry.
